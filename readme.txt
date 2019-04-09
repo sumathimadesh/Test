@@ -1,5 +1,3 @@
-<<<<<<< HEAD
 Testing 9 ...
-=======
-Testing 8 ...
->>>>>>> bb26d8ff93949b88e3e68b948fa87b999bff46af
+
+Accepted
