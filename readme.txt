@@ -1,4 +1,4 @@
-Testing 7 ...
+Testing 6 ...
 
 Accepted
-Changed to 7
+Changed to 6
